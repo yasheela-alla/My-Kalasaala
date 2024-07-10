@@ -1,4 +1,3 @@
-
 $(document).ready(function () {
     // Hide the animation container after the animation ends
     setTimeout(function () {
